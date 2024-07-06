@@ -31,7 +31,7 @@ const TeslaQuiz = () => {
       <div className="text-center bg-white p-8 rounded-2xl shadow-lg max-w-md w-full">
         <h1 className="text-3xl font-bold mb-6 text-indigo-800">חידודי מדע</h1>
         <img 
-          src="https://drive.google.com/uc?export=view&id=1107eMQbnvCVBdCbx0SgRxrhy5ILe7uzV" 
+          src="https://github.com/RAVITAVI/MADA/blob/main/%D7%97%D7%99%D7%93%D7%94%201.png?raw=true" 
           alt="חידת ניקולה טסלה"
           className="w-full h-auto rounded-lg mb-8 shadow-md"
         />
